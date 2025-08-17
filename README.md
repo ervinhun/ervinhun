@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ervin!
 
-✈️ Former Flight Attendant | 💻 Aspiring Java Developer | 🌍 International Student | 🇮🇹 Living Abroad
+✈️ Former Flight Attendant | 💻 Aspiring Java Developer | 🌍 International Student | DK Living Abroad
 
 ---
 
@@ -8,14 +8,14 @@
 
 I'm Ervin, originally from Hungary and currently based in Denmark. I have a passion for learning — values I now bring into the world of tech.
 
-Today, I'm channeling that same energy into my studies in **Computer Science**, with a focus on **Java** programming at the moment.
+Today, I'm channeling that same energy into my studies in **Computer Science** in Denmark.
 
 ---
 
 ## 💡 What I'm Into
 
 - ✈️ Aviation (still obsessed with planes!)
-- 📱 JavaFX programming at the moment, more to come later
+- 📱 JavaFX programming
 - 🎓 Learning new technologies and best practices
 - 🌍 International culture and community work
 - 🔧 Building small projects to solve real-life problems
@@ -27,7 +27,7 @@ Today, I'm channeling that same energy into my studies in **Computer Science**, 
 - 💻 **Languages:** Java, HTML/CSS
 - 📱 **Mobile:** Android (Java)
 - 🌐 **Tools:** Git, GitHub, Android Studio, IntelliJ
-- 📚 **Currently learning:** Data structures & algorithms, Kotlin
+- 📚 **Currently learning:** Data structures & algorithms, React, C#, Networking, Security
 
 ---
 
