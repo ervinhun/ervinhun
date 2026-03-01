@@ -1,55 +1,108 @@
-# 👋 Hi, I'm Ervin!
+👋 Hi, I’m Ervin
 
-✈️ Former Flight Attendant | 💻 Aspiring Java Developer | 🌍 International Student | DK Living Abroad
+Backend Developer | Computer Science Student | Based in Denmark
 
----
+👨‍💻 About Me
 
-## 👨‍💼 About Me
+I’m a Backend Developer with a strong foundation in Java and modern backend architecture.
+Currently working at BESTSELLER A/S in Denmark, where I contribute to service migration, backend modernization, and CI/CD optimization.
 
-I'm Ervin, originally from Hungary and currently based in Denmark. I have a passion for learning — values I now bring into the world of tech.
+My background in aviation shaped my structured mindset, sense of responsibility, and ability to perform under pressure — qualities I now apply to building scalable and maintainable systems.
 
-Today, I'm channeling that same energy into my studies in **Computer Science** in Denmark.
+I focus on clean architecture, reliability, and long-term system stability.
 
----
+🛠 Technical Competencies
+💻 Backend & Core
 
-## 💡 What I'm Into
+Java (Primary)
 
-- ✈️ Aviation (still obsessed with planes!)
-- 📱 JavaFX programming
-- 🎓 Learning new technologies and best practices
-- 🌍 International culture and community work
-- 🔧 Building small projects to solve real-life problems
+Spring Boot
 
----
+Object-Oriented Programming (OOP)
 
-## 🔧 Tech Stack
+RESTful APIs
 
-- 💻 **Languages:** Java, HTML/CSS
-- 📱 **Mobile:** Android (Java)
-- 🌐 **Tools:** Git, GitHub, Android Studio, IntelliJ
-- 📚 **Currently learning:** Data structures & algorithms, React, C#, Networking, Security
+Service migration & backend modernization
 
----
+☁ DevOps & Cloud
 
-## 🛠️ Projects
+GitHub Actions (CI/CD)
 
-Stay tuned
+Kafka
 
----
+Confluent Cloud
 
-Thanks for stopping by! 🚀
+CI/CD pipeline design
 
-<!--
-**ervinhun/ervinhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Monitoring & observability (DataDog)
 
-Here are some ideas to get you started:
+🗄 Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PostgreSQL
+
+Microsoft SQL Server
+
+🌐 Full Stack Experience
+
+C# (.NET)
+
+Angular
+
+React
+
+JavaScript
+
+HTML / CSS
+
+Android (Java)
+
+JavaFX
+
+💼 Professional Experience
+Backend Developer — BESTSELLER A/S (2025–Present)
+
+Migrating services to modern backend architecture
+
+Transitioning CI/CD pipelines to GitHub Actions
+
+Supporting cross-functional teams (Buying & Sourcing)
+
+Improving reliability through proactive monitoring (DataDog)
+
+Full Stack Developer — Software Master Ltd. (2020)
+
+Migrated legacy VB6 systems
+
+Rewrote backend logic in C#
+
+Contributed to Angular frontend modernization
+
+🎓 Education
+
+Computer Science AP — Syddansk Erhvervsakademi (Denmark)
+
+English IT Major — University of Debrecen (Hungary)
+
+🚀 What I Care About
+
+Scalable backend systems
+
+Clean architecture & maintainability
+
+CI/CD optimization
+
+Observability & system stability
+
+Continuous learning
+
+📂 Projects
+
+This GitHub showcases:
+
+Backend-focused projects
+
+Architecture experiments
+
+Learning projects in .NET & React
+
+Practical solutions built during my studies
