@@ -1,108 +1,87 @@
-👋 Hi, I’m Ervin
+# 👋 Hi, I’m Ervin
 
-Backend Developer | Computer Science Student | Based in Denmark
+**Backend Developer | Computer Science Student | Based in Denmark**
 
-👨‍💻 About Me
+---
 
-I’m a Backend Developer with a strong foundation in Java and modern backend architecture.
-Currently working at BESTSELLER A/S in Denmark, where I contribute to service migration, backend modernization, and CI/CD optimization.
+## 👨‍💻 About Me
+
+I’m a Backend Developer with a strong foundation in **Java** and modern backend architecture.  
+Currently working at **BESTSELLER A/S** in Denmark, where I contribute to service migration, backend modernization, and CI/CD optimization.
 
 My background in aviation shaped my structured mindset, sense of responsibility, and ability to perform under pressure — qualities I now apply to building scalable and maintainable systems.
 
 I focus on clean architecture, reliability, and long-term system stability.
 
-🛠 Technical Competencies
-💻 Backend & Core
+---
 
-Java (Primary)
+## 🛠 Technical Competencies
 
-Spring Boot
+### 💻 Backend & Core
+- **Java (Primary)**
+- Spring Boot
+- Object-Oriented Programming (OOP)
+- RESTful APIs
+- Service migration & backend modernization
 
-Object-Oriented Programming (OOP)
+### ☁ DevOps & Cloud
+- GitHub Actions (CI/CD)
+- Kafka
+- Confluent Cloud
+- CI/CD pipeline design
+- Monitoring & observability (DataDog)
 
-RESTful APIs
+### 🗄 Databases
+- PostgreSQL
+- Microsoft SQL Server
 
-Service migration & backend modernization
+### 🌐 Full Stack Experience
+- C# (.NET)
+- Angular
+- React
+- JavaScript
+- HTML / CSS
+- Android (Java)
+- JavaFX
 
-☁ DevOps & Cloud
+---
 
-GitHub Actions (CI/CD)
+## 💼 Professional Experience
 
-Kafka
+### Backend Developer — BESTSELLER A/S (2025–Present)
+- Migrating services to modern backend architecture  
+- Transitioning CI/CD pipelines to GitHub Actions  
+- Supporting cross-functional teams (Buying & Sourcing)  
+- Improving reliability through proactive monitoring (DataDog)  
 
-Confluent Cloud
+### Full Stack Developer — Software Master Ltd. (2020)
+- Migrated legacy VB6 systems  
+- Rewrote backend logic in C#  
+- Contributed to Angular frontend modernization  
 
-CI/CD pipeline design
+---
 
-Monitoring & observability (DataDog)
+## 🎓 Education
 
-🗄 Databases
+- Computer Science AP — Syddansk Erhvervsakademi (Denmark)  
+- English IT Major — University of Debrecen (Hungary)
 
-PostgreSQL
+---
 
-Microsoft SQL Server
+## 🚀 What I Care About
 
-🌐 Full Stack Experience
+- Scalable backend systems  
+- Clean architecture & maintainability  
+- CI/CD optimization  
+- Observability & system stability  
+- Continuous learning  
 
-C# (.NET)
+---
 
-Angular
-
-React
-
-JavaScript
-
-HTML / CSS
-
-Android (Java)
-
-JavaFX
-
-💼 Professional Experience
-Backend Developer — BESTSELLER A/S (2025–Present)
-
-Migrating services to modern backend architecture
-
-Transitioning CI/CD pipelines to GitHub Actions
-
-Supporting cross-functional teams (Buying & Sourcing)
-
-Improving reliability through proactive monitoring (DataDog)
-
-Full Stack Developer — Software Master Ltd. (2020)
-
-Migrated legacy VB6 systems
-
-Rewrote backend logic in C#
-
-Contributed to Angular frontend modernization
-
-🎓 Education
-
-Computer Science AP — Syddansk Erhvervsakademi (Denmark)
-
-English IT Major — University of Debrecen (Hungary)
-
-🚀 What I Care About
-
-Scalable backend systems
-
-Clean architecture & maintainability
-
-CI/CD optimization
-
-Observability & system stability
-
-Continuous learning
-
-📂 Projects
+## 📂 Projects
 
 This GitHub showcases:
-
-Backend-focused projects
-
-Architecture experiments
-
-Learning projects in .NET & React
-
-Practical solutions built during my studies
+- Backend-focused projects  
+- Architecture experiments  
+- Learning projects in .NET & React  
+- Practical solutions built during my studies  
