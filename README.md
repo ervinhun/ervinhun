@@ -7,7 +7,6 @@
 ## 👨‍💻 About Me
 
 I’m a Backend Developer with a strong foundation in **Java** and modern backend architecture.  
-Currently working at **BESTSELLER A/S** in Denmark, where I contribute to service migration, backend modernization, and CI/CD optimization.
 
 My background in aviation shaped my structured mindset, sense of responsibility, and ability to perform under pressure — qualities I now apply to building scalable and maintainable systems.
 
@@ -18,7 +17,7 @@ I focus on clean architecture, reliability, and long-term system stability.
 ## 🛠 Technical Competencies
 
 ### 💻 Backend & Core
-- **Java (Primary)**
+- **Java**
 - Spring Boot
 - Object-Oriented Programming (OOP)
 - RESTful APIs
